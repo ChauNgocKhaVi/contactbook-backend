@@ -10,6 +10,8 @@
   "description": "",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.21.2"
+    "eslint-config-prettier": "^10.0.1",
+    "express": "^4.21.2",
+    "prettier": "^3.4.2"
   }
 }
